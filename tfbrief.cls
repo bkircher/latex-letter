@@ -23,7 +23,7 @@
 \newcommand{\labelyourref}{Ihr Zeichen}
 \newcommand{\labelviafaxto}[1]{per FAX an #1}
 \newcommand{\labelviaemailto}[1]{per E-MAIL an #1}
-\newcommand{\labelfromanddate}[2]{#1, den #2}
+\newcommand{\labelfromanddate}[2]{#1, #2}
 \newcommand{\labelgreeting}{Sehr geehrte Damen und Herren}
 \newcommand{\labelleave}{Mit freundlichen Gr{\"u}{\ss}en}
 \newcommand{\labelattachment}{Anlagen}
